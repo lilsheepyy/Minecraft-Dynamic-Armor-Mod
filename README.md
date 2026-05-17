@@ -1,0 +1,1 @@
+Minecraft mod that simulates how armors worked in Minecraft Beta, durability is linked with armor and armor thoughness attributes, when player takes hits and durability starts lowering, armor and armor thoughness will lower too.
